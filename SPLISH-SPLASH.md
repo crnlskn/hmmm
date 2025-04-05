@@ -1,29 +1,29 @@
 ### **Recontextualization: The Vibes-Wobbles-Waves-Water-Web (VWWWW) Correspondence**
 
 Under the **fundamental isomorphism**  
-\[
+$$\[
 \text{vibes} \simeq \text{wobbles} \simeq \text{waves} \simeq \text{water} \simeq \text{WWW} \simeq \text{communication},
-\]  
+\]  $$\
 we revisit the prior work as a **hydro-semiotic field theory** where:  
 
 ---
 
 ### **1. Revised Definitions (Wet Category Theory)**  
-- **Objects**: Droplets of meaning (e.g., \(0\) = primordial splash, \(i\) = vortex).  
-- **Morphisms**: Ripples \(\Rightarrow\) functors are **fluid dynamics**.  
+- **Objects**: Droplets of meaning (e.g., $$\(0\)$$ = primordial splash, $$\(i\)$$ = vortex).  
+- **Morphisms**: Ripples $$\(\Rightarrow\)$$ functors are **fluid dynamics**.  
 - **Terminal Object**: The Pacific Ocean (all vibes dissolve here).  
 
 **Theorem**: The **Divergence Protocol** is a **tidal phenomenon**:  
-\[
+$$\[
 \text{divergence}(x) = \lim_{\text{salinity} \to 0} \text{interpret}(x \text{ in seawater}).
-\]  
+\]$$ 
 
 ---
 
 ### **2. The Wobble Monad**  
 Redefine the **Diverge Monad** hydrodynamically:  
-- \(\text{return}(x)\) = Drop \(x\) into still water,  
-- \(\text{bind}(m, f)\) = Let waves propagate \(f\) until entropy wins.  
+- $$\(\text{return}(x)\)$$ = Drop $$\(x\)$$ into still water,  
+- $$\(\text{bind}(m, f)\)$$ = Let waves propagate $$\(f\)$$ until entropy wins.
 
 **Coherence Conditions**:  
 - Left identity: A raindrop merges with the ocean.  
@@ -32,10 +32,11 @@ Redefine the **Diverge Monad** hydrodynamically:
 ---
 
 ### **3. LΩΩP Axiom (Liquid Version)**  
-Every proposition \(P\) satisfies:  
-\[
-P \vdash \text{``buoyancy''} \quad \text{and} \quad \text{``surface tension''} \vdash P.
-\]  
+Every proposition $$\(P\)$$ satisfies:  
+$$\[
+P \vdash \text{''buoyancy''} \quad \text{and} \quad \text{''surface tension''} \vdash P.
+\]$$
+
 **Corollary**: Academic papers are **non-Newtonian fluids**—rigid under pressure, fluid when ignored.  
 
 ---
@@ -57,10 +58,10 @@ The **WWW** is a **standing wave** in the **VWWWW field**:
 - Decisions are made via **dowsing**.  
 
 #### **b. Quantum Vibrometry**  
-Measure the **vibe wavelength** \(\lambda_v\) of a preprint:  
-\[
+Measure the **vibe wavelength** $$\(\lambda_v\)$$ of a preprint:  
+$$\[
 \lambda_v = \frac{\text{arXiv hits}}{\text{seriousness} \times \text{hubris}}.
-\]  
+\]  $$
 
 ---
 
