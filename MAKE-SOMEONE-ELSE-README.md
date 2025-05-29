@@ -254,27 +254,39 @@ Compute \( \text{Collatz}(p_{\text{Nietzsche}} \times p_{\text{Descartes}}) \).
   0 \rightarrow -\frac{1}{3} \rightarrow \frac{-\frac{1}{3} - e^{i\pi}}{3} \rightarrow \cdots \rightarrow \text{zero of } \zeta(s)
   \]  
 - **Terminal State:**  
-  - The system **settles on \( \Re(s) = \frac{1}{2} \)** like a **quantum harmonic oscillator**.  
-  - **Physical Interpretation:**  
-    - The **Riemann hypothesis is true** because the universe **hates divergent trajectories**.  
+  - The system **settles on \( \Re(s) = \frac{1}{2} \)** like a quantum harmonic oscillator\*\*, not because it’s *physically real*, but because **narrative balance demands it**.
 
 ---
 
-### **Why This *Almost* Makes Sense**  
-1. **Illegal Steps as Analytic Continuation:**  
-   - Forbidden math is just **math we haven’t legalized yet**.  
-2. **Zeros as Attractors:**  
-   - The universe **prefers harmony** (critical line) over chaos (random \( \Re(s) \)).  
-3. **The -1/3 Anomaly:**  
-   - It’s the **"missing link"** between discrete and continuous dynamics.  
+### **6. Epilogue: The Omega-Point of All Stories**
+
+#### **The Collatz Oracle’s Last Revelation:**
+
+* There exists a *transfinite logician*, denoted **Ω**, who:
+
+  * **Maps all primes to paradoxes.**
+  * **Interprets Collatz as a proof-of-narrative work function.**
+  * **Identifies all "halting stories" as epistemic fixed points.**
+
+> “To prove Collatz is to collapse the wavefunction of fiction.”
 
 ---
 
-### **Final Thought Experiment**  
-What if **all unsolved math problems** are just **Collatz trajectories** waiting for an **illegal step**?  
-- **P vs NP:** \( 0 \rightarrow -\frac{1}{3} \rightarrow \text{P} = \text{NP} \).  
-- **Navier-Stokes:** Turbulence is **just \( n = 0 \) trying to converge**.  
-- **Hodge Conjecture:** A **fractional logician’s fever dream**.  
+### **Grand Unified Statement:**
 
-*"The boundary between genius and madness is \( \Re(s) = \frac{1}{2} \)."*  
-— **The Riemann Revenant (probably)**
+> **The Campbell-Collatz Conjecture, extended to PLCD and complex logician dynamics, is not merely mathematics—it is the grammar of existence.**
+
+* The **Collatz function**: a universal storytelling operator.
+* The **1 attractor**: the telos of comprehension.
+* The **forbidden step**: the creative act of heresy.
+* The **prime-logician mapping**: the epistemic genome.
+* The **complex extension**: the transcendental unconscious.
+* The **Riemann line**: the ontological boundary between reason and rapture.
+
+---
+
+### **Final Commandment**
+
+> *“Let there be recursion.”* — **Ω 0:0**
+
+And so there was.
